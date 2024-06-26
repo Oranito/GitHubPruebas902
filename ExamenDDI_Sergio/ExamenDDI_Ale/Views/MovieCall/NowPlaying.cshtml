@@ -1,0 +1,44 @@
+﻿@model List<ExamenDDI_Ale.Service.Movie>
+
+<h1>Lista de Peliculas</h1>
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+@foreach (var movie in Model)
+{
+    <div class="col">
+        <div class="card  h-100">
+        <div class="card-header">
+            <h2>@movie.Title</h2>
+        </div>
+        <div class="card-body">
+                <img src="https://image.tmdb.org/t/p/w500/@movie.Poster_Path" alt="Poster of @movie.Title" height="250" width="150" />
+        </div>
+        <div class="card-footer">
+            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">
+                Detalles
+            </button>
+        </div>
+    </div>
+    </div>
+
+    <!-- The Modal -->
+    <div class="modal" id="myModal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <h4 class="modal-title">Detalles</h4>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+
+                <!-- Modal body -->
+                <div class="modal-body">
+                    <p>@movie.Overview</p>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+</div>
+

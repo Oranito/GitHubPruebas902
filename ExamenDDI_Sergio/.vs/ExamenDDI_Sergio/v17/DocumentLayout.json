@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oranito\\source\\repos\\ExamenDDI_Sergio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E077665-4FC2-4F3A-ACEA-265D270B2625}|ExamenDDI_Sergio\\ExamenDDI_Ale.csproj|c:\\users\\oranito\\source\\repos\\examenddi_sergio\\examenddi_sergio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E077665-4FC2-4F3A-ACEA-265D270B2625}|ExamenDDI_Sergio\\ExamenDDI_Ale.csproj|solutionrelative:examenddi_sergio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E077665-4FC2-4F3A-ACEA-265D270B2625}|ExamenDDI_Sergio\\ExamenDDI_Ale.csproj|c:\\users\\oranito\\source\\repos\\examenddi_sergio\\examenddi_sergio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E077665-4FC2-4F3A-ACEA-265D270B2625}|ExamenDDI_Sergio\\ExamenDDI_Ale.csproj|solutionrelative:examenddi_sergio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E077665-4FC2-4F3A-ACEA-265D270B2625}|ExamenDDI_Sergio\\ExamenDDI_Ale.csproj|c:\\users\\oranito\\source\\repos\\examenddi_sergio\\examenddi_sergio\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E077665-4FC2-4F3A-ACEA-265D270B2625}|ExamenDDI_Sergio\\ExamenDDI_Ale.csproj|solutionrelative:examenddi_sergio\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E077665-4FC2-4F3A-ACEA-265D270B2625}|ExamenDDI_Sergio\\ExamenDDI_Ale.csproj|c:\\users\\oranito\\source\\repos\\examenddi_sergio\\examenddi_sergio\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E077665-4FC2-4F3A-ACEA-265D270B2625}|ExamenDDI_Sergio\\ExamenDDI_Ale.csproj|solutionrelative:examenddi_sergio\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E077665-4FC2-4F3A-ACEA-265D270B2625}|ExamenDDI_Sergio\\ExamenDDI_Ale.csproj|c:\\users\\oranito\\source\\repos\\examenddi_sergio\\examenddi_sergio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E077665-4FC2-4F3A-ACEA-265D270B2625}|ExamenDDI_Sergio\\ExamenDDI_Ale.csproj|solutionrelative:examenddi_sergio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E077665-4FC2-4F3A-ACEA-265D270B2625}|ExamenDDI_Sergio\\ExamenDDI_Ale.csproj|c:\\users\\oranito\\source\\repos\\examenddi_sergio\\examenddi_sergio\\views\\moviecall\\nowplaying.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E077665-4FC2-4F3A-ACEA-265D270B2625}|ExamenDDI_Sergio\\ExamenDDI_Ale.csproj|solutionrelative:examenddi_sergio\\views\\moviecall\\nowplaying.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E077665-4FC2-4F3A-ACEA-265D270B2625}|ExamenDDI_Sergio\\ExamenDDI_Ale.csproj|c:\\users\\oranito\\source\\repos\\examenddi_sergio\\examenddi_sergio\\service\\tmdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E077665-4FC2-4F3A-ACEA-265D270B2625}|ExamenDDI_Sergio\\ExamenDDI_Ale.csproj|solutionrelative:examenddi_sergio\\service\\tmdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E077665-4FC2-4F3A-ACEA-265D270B2625}|ExamenDDI_Sergio\\ExamenDDI_Ale.csproj|c:\\users\\oranito\\source\\repos\\examenddi_sergio\\examenddi_sergio\\controllers\\moviecallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E077665-4FC2-4F3A-ACEA-265D270B2625}|ExamenDDI_Sergio\\ExamenDDI_Ale.csproj|solutionrelative:examenddi_sergio\\controllers\\moviecallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oranito\\source\\repos\\ExamenDDI_Sergio\\ExamenDDI_Sergio\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ExamenDDI_Sergio\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Oranito\\source\\repos\\ExamenDDI_Sergio\\ExamenDDI_Sergio\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ExamenDDI_Sergio\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T15:29:03.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oranito\\source\\repos\\ExamenDDI_Sergio\\ExamenDDI_Sergio\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamenDDI_Sergio\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Oranito\\source\\repos\\ExamenDDI_Sergio\\ExamenDDI_Sergio\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExamenDDI_Sergio\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T15:29:01.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Oranito\\source\\repos\\ExamenDDI_Sergio\\ExamenDDI_Sergio\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ExamenDDI_Sergio\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Oranito\\source\\repos\\ExamenDDI_Sergio\\ExamenDDI_Sergio\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ExamenDDI_Sergio\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T15:28:30.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oranito\\source\\repos\\ExamenDDI_Sergio\\ExamenDDI_Sergio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExamenDDI_Sergio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Oranito\\source\\repos\\ExamenDDI_Sergio\\ExamenDDI_Sergio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExamenDDI_Sergio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T14:46:58.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oranito\\source\\repos\\ExamenDDI_Sergio\\ExamenDDI_Sergio\\Program.cs",
+              "RelativeDocumentMoniker": "ExamenDDI_Sergio\\Program.cs",
+              "ToolTip": "C:\\Users\\Oranito\\source\\repos\\ExamenDDI_Sergio\\ExamenDDI_Sergio\\Program.cs",
+              "RelativeToolTip": "ExamenDDI_Sergio\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:35:21.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NowPlaying.cshtml",
+              "DocumentMoniker": "C:\\Users\\Oranito\\source\\repos\\ExamenDDI_Sergio\\ExamenDDI_Sergio\\Views\\MovieCall\\NowPlaying.cshtml",
+              "RelativeDocumentMoniker": "ExamenDDI_Sergio\\Views\\MovieCall\\NowPlaying.cshtml",
+              "ToolTip": "C:\\Users\\Oranito\\source\\repos\\ExamenDDI_Sergio\\ExamenDDI_Sergio\\Views\\MovieCall\\NowPlaying.cshtml",
+              "RelativeToolTip": "ExamenDDI_Sergio\\Views\\MovieCall\\NowPlaying.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T14:29:46.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TMDbService.cs",
+              "DocumentMoniker": "C:\\Users\\Oranito\\source\\repos\\ExamenDDI_Sergio\\ExamenDDI_Sergio\\Service\\TMDbService.cs",
+              "RelativeDocumentMoniker": "ExamenDDI_Sergio\\Service\\TMDbService.cs",
+              "ToolTip": "C:\\Users\\Oranito\\source\\repos\\ExamenDDI_Sergio\\ExamenDDI_Sergio\\Service\\TMDbService.cs",
+              "RelativeToolTip": "ExamenDDI_Sergio\\Service\\TMDbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:31:52.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieCallController.cs",
+              "DocumentMoniker": "C:\\Users\\Oranito\\source\\repos\\ExamenDDI_Sergio\\ExamenDDI_Sergio\\Controllers\\MovieCallController.cs",
+              "RelativeDocumentMoniker": "ExamenDDI_Sergio\\Controllers\\MovieCallController.cs",
+              "ToolTip": "C:\\Users\\Oranito\\source\\repos\\ExamenDDI_Sergio\\ExamenDDI_Sergio\\Controllers\\MovieCallController.cs",
+              "RelativeToolTip": "ExamenDDI_Sergio\\Controllers\\MovieCallController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:19:11.643Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

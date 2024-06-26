@@ -1,0 +1,8 @@
+C:\Users\Oranito\source\repos\ExamenDDI_Sergio\ExamenDDI_Sergio\obj\Debug\net8.0\ExamenDDI.csproj.AssemblyReference.cache
+C:\Users\Oranito\source\repos\ExamenDDI_Sergio\ExamenDDI_Sergio\obj\Debug\net8.0\ExamenDDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oranito\source\repos\ExamenDDI_Sergio\ExamenDDI_Sergio\obj\Debug\net8.0\ExamenDDI.AssemblyInfoInputs.cache
+C:\Users\Oranito\source\repos\ExamenDDI_Sergio\ExamenDDI_Sergio\obj\Debug\net8.0\ExamenDDI.AssemblyInfo.cs
+C:\Users\Oranito\source\repos\ExamenDDI_Sergio\ExamenDDI_Sergio\obj\Debug\net8.0\ExamenDDI.csproj.CoreCompileInputs.cache
+C:\Users\Oranito\source\repos\ExamenDDI_Sergio\ExamenDDI_Sergio\obj\Debug\net8.0\ExamenDDI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Oranito\source\repos\ExamenDDI_Sergio\ExamenDDI_Sergio\obj\Debug\net8.0\ExamenDDI.RazorAssemblyInfo.cache
+C:\Users\Oranito\source\repos\ExamenDDI_Sergio\ExamenDDI_Sergio\obj\Debug\net8.0\ExamenDDI.RazorAssemblyInfo.cs
